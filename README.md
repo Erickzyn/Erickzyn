@@ -1,4 +1,4 @@
-###  Olá, me chamo Erick Michael e estou cursando Técnico em informática para internet row are iou main
+###  Olá, me chamo Erick Michael e estou cursando Técnico em informática para internet
 
 
 <div align="center">
